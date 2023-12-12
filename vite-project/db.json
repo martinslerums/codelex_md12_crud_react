@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviePoster": "https://creativereview.imgix.net/content/uploads/2019/12/joker_full.jpg?auto=compress,format&q=60&w=1012&h=1500",
+      "movieTitle": "Joker",
+      "movieGenre": "Drama",
+      "movieReleaseYear": "2018",
+      "movieTrailer": "https://youtu.be/t433PEQGErc?si=7UoVpzklWpRGPCuK"
+    },
+    {
+      "id": 3,
+      "moviePoster": "https://artofthemovies.co.uk/cdn/shop/products/IMG_1312-310705.jpg?v=1677660328",
+      "movieTitle": "Creed III",
+      "movieGenre": "Drama",
+      "movieReleaseYear": "2024",
+      "movieTrailer": "https://youtu.be/AHmCH7iB_IM?si=sMjcFmBC0X1g35V-"
+    }
+  ]
+}

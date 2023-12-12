@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    /* position: relative;
+    top: 20px; */
+}
+
+.heading {
+    font-weight: 700;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.links {
+    display: flex;
+    gap: 50px;
+   
+}

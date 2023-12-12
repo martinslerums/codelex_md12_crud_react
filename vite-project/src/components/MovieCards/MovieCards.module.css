@@ -1,0 +1,13 @@
+.movieCards {
+    padding: 50px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+}
+
+.moviePreview {
+    padding: 15px 10px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgray;
+}
