@@ -1,0 +1,17 @@
+.input__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.input {
+    padding: 0.4rem;
+    border-radius: 4px;
+}
+
+.label {
+ font-weight: 500;
+ font-size: 16px;
+ display: flex;
+ justify-content: start;
+}
